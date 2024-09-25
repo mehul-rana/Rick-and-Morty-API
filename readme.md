@@ -1,0 +1,1 @@
+This is a simple project which uses the Rick and Morty API to access its database of characters. 
